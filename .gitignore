@@ -1,0 +1,38 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+Firework
+
+eclipse
+run
+saves
+mods
+logs
+config
+resourcepacks
+crash-reports
+screenshots
+.mixin.out
+
+# Files from Forge MDK
+forge*changelog.txt
+usercache.json
+usernamecache.json
+options.txt
